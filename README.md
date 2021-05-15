@@ -12,5 +12,5 @@
 - Java
 - HTML
 
-### Contact me at :telephone_receiver:
+### Contact me at
 [LinkedIn](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
