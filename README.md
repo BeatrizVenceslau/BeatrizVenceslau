@@ -13,4 +13,4 @@
 - HTML
 
 # Contact me at
-[![Foo](https://www.google.com/url?sa=i&url=https%3A%2F%2Feaes.eu%2Feaes2020%2Fprogram-2020%2Fscientific-program%2Flinkedin-logo%2F&psig=AOvVaw2zeprh8_FIIiJwRhSoIVPC&ust=1621183819002000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi0wMqSzPACFQAAAAAdAAAAABAD)](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
+[![Foo](https://github.com/BeatrizVenceslau/BeatrizVenceslau/blob/main/linkedin-logo.png)](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
