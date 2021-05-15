@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineering Student
 - :computer: I'm taking my bachelor's degree at [Instituto Superio Tecnico](https://tecnico.ulisboa.pt/en/)
-- Currently in my **3rd Year**
+- :books: Currently in my **3rd Year**
 
 ### I can code in
 - C
