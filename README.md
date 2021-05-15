@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Beatriz Venceslau
 
-<!--
-**BeatrizVenceslau/BeatrizVenceslau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Engineering Student
+- I'm taking my bachelor's degree at [Instituto Superio Tecnico](https://tecnico.ulisboa.pt/en/)
+- Currently in my **3rd Year**
 
-Here are some ideas to get you started:
+# I can code in
+- C
+- Python
+- TypeScript
+- C++
+- Java
+- HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me at
+[![Foo](https://www.google.com/url?sa=i&url=https%3A%2F%2Feaes.eu%2Feaes2020%2Fprogram-2020%2Fscientific-program%2Flinkedin-logo%2F&psig=AOvVaw2zeprh8_FIIiJwRhSoIVPC&ust=1621183819002000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi0wMqSzPACFQAAAAAdAAAAABAD)](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
