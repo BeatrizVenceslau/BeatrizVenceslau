@@ -13,4 +13,4 @@
 - HTML
 
 # Contact me at
-[![Foo](https://github.com/BeatrizVenceslau/BeatrizVenceslau/blob/main/linkedin-logo.png)](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
+[LinkedIn)](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
