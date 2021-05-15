@@ -13,4 +13,4 @@
 - HTML
 
 # Contact me at
-[LinkedIn)](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
+[LinkedIn](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
