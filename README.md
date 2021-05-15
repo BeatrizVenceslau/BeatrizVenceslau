@@ -1,7 +1,7 @@
-# Hi there, I'm Beatriz Venceslau
+# Hi there, I'm Beatriz Venceslau :blush:
 
 ## I'm a Computer Engineering Student
-- I'm taking my bachelor's degree at [Instituto Superio Tecnico](https://tecnico.ulisboa.pt/en/)
+- :computer: I'm taking my bachelor's degree at [Instituto Superio Tecnico](https://tecnico.ulisboa.pt/en/)
 - Currently in my **3rd Year**
 
 ### I can code in
