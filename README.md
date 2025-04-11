@@ -1,7 +1,7 @@
-# Hi! I'm Beatriz Venceslau :blush:
+# Hi! I'm Beatriz Venceslau
 
-## I'm a Computer Engineering Student
-- :computer: I'm taking my Master's degree at [Instituto Superio Tecnico](https://tecnico.ulisboa.pt/en/)
-- :books: Currently in my **2nd Year**
+## I'm an RPA Developer
+- 💼: I work at CTT - Correios de Portugal
+- :computer: I have a Master's degree in Computer Science and Engineering at [Instituto Superio Tecnico](https://tecnico.ulisboa.pt/en/)
 
 #### Contact me at [LinkedIn](https://www.linkedin.com/in/beatriz-venceslau-engineering/)
